@@ -1,0 +1,10 @@
+.header{
+    background-color: aliceblue;
+    display: inline;
+}
+.header a{
+    display: inline;
+}
+.form{
+    position:absolute;
+} 
